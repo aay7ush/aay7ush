@@ -1,5 +1,10 @@
 # 💫 About Me:
-Young and passionate self-taught Front-End Developer from India, crafting seamless web experiences with Next.js, TypeScript, and Tailwind CSS. Transforming visions into pixel-perfect realities. Explore my digital journey here!
+👋 Hi there! I'm Aayush Jaiswal, a passionate 21-year-old self-taught front-end developer from India 🇮🇳. My coding journey began with a curiosity to create visually stunning and user-friendly interfaces. Constantly exploring the ever-evolving world of web development, I love turning ideas into interactive and responsive websites.
+
+🚀 Currently honing my skills in Next.js, TypeScript, and Tailwind, I'm always eager to embrace new technologies and frameworks to enhance my projects. With a keen eye for design and a commitment to writing clean and efficient code, I strive to make the web a more engaging and accessible space.
+
+🌱 When I'm not immersed in code, you can find me exploring the latest trends in front-end development, experimenting with new design concepts, or contributing to open-source projects. Let's connect and build something amazing together! 💻✨
+
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ezSnippet) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?logo=algorand&logoColor=white)](https://aay7ush.netlify.app)
